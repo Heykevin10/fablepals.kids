@@ -1,0 +1,9 @@
+public_html/vendor
+node_modules
+.env
+*.zip
+public_html/storage/logs
+public_html/storage/framework/cache
+public_html/storage/framework/views
+public_html/storage/framework/sessions
+public_html/testingsite/
